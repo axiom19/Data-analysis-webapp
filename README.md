@@ -1,10 +1,10 @@
-# Biomass and HAUCS Web Application Summer Project
+# Data Analysis Webapp 
 
-The goal of this project is to develop a unified platform for Internet of Things systems of the biomass sensor and HAUCS.
+This project aims to develop a unified platform for the Internet of Things systems of biomass sensors and HAUCS.
 
 ## Framework
 
-This project uses Flask as the web framework because it allows for the easy use with all the coding languages as well as processing of the Firebase database.
+This project uses Flask as the web framework because it allows for easy use with all the coding languages and processing of the Firebase database.
 
 ## Python scripts
 
